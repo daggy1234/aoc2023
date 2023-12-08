@@ -2,7 +2,7 @@
 
 My AOC 2023 python solutions.
 
-![](https://img.shields.io/badge/day%20📅-7-blue) ![](https://img.shields.io/badge/days%20completed-3-red)
+![](https://img.shields.io/badge/day%20📅-8-blue) ![](https://img.shields.io/badge/days%20completed-3-red)
 
 another year another aoc
 
@@ -31,6 +31,7 @@ chmod +x runpy.sh
 | [Day 1](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ |
 | [Day 2](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ |
 | [Day 4](https://adventofcode.com/2023/day/4) | ⭐ | ⭐ |
+| [Day 5](https://adventofcode.com/2023/day/5) | ⭐ |   |
 <!--- advent_readme_stars table --->
 
 ## License
