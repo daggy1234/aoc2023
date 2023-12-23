@@ -2,7 +2,7 @@
 
 My AOC 2023 python solutions.
 
-![](https://img.shields.io/badge/day%20📅-22-blue) ![](https://img.shields.io/badge/days%20completed-6-red)
+![](https://img.shields.io/badge/day%20📅-23-blue) ![](https://img.shields.io/badge/days%20completed-6-red)
 
 another year another aoc
 
